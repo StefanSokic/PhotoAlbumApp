@@ -1,0 +1,14 @@
+.Home button {
+    background-color: #6E7783;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 1em 2em;
+    text-align: center;
+    display: inline-block;
+    margin: 2em 0;
+}
+
+.Home button:hover {
+	cursor: pointer;
+}

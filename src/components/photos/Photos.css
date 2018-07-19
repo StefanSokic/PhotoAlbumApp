@@ -1,0 +1,16 @@
+.PhotoContainer {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.PhotoTile {
+	margin: 1em;
+}
+
+.Photos p {
+	max-width: 10em;
+}
+
+.Photos h1 {
+	margin-left: 0.5em;
+}

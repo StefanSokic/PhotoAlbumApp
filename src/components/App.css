@@ -1,0 +1,15 @@
+.App {
+	margin: 5% 10%;
+}
+
+.App h1 {
+	color: #F16B6F;
+}
+
+.App p {
+	color: #6E7783;
+}
+
+.App a {
+	text-decoration: none;
+}
